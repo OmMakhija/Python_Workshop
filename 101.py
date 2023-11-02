@@ -1,0 +1,5 @@
+print("Hello")
+name=input("Enter your name: ")
+Section=input("Enter Your Section: ")
+print("Hello "+name)
+print("of section "+Section)
